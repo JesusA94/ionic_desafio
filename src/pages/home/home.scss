@@ -1,3 +1,35 @@
 page-home {
-
+    .pensum
+    {
+        background: rgb(50,150,150);
+        color: white;
+    }
+    .cambiar
+    {
+        background: rgb(230,230,230);
+        color:black;
+        border: none;
+    }
+    .cambiar:hover
+    {
+        background: #e76100;
+        color: white;
+    }
+    .cambio-cursos
+    {
+        height: 30px;
+        border-radius: 5px;
+    }
+    .cambio-cursos
+    {
+        background: rgba(245, 186, 78, 0.514);
+        color:black;
+        border: none;
+    }
+    .cambio-cursos:hover
+    {
+        background: rgb(0,84,143);
+        color: white;
+    }
+    .toolbar-background { background-color:#85C1E9;} 
 }
